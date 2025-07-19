@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm Profesional Web Developer<br>Have experience Build UI with CSS Framework like Bootstrap and tailwinds<br>Have experience using PHP, Laravel, Codeigniter, and MySQL Database<br>I'm freelancer web developer with 2 years experience  
+I'm Profesional Web Developer<br>Have experience Build UI with CSS Framework like Bootstrap, Chakra UI, Material UI, and tailwinds<br>Have experience using PHP, Laravel, Codeigniter, Python, Flask, React JS, Next JS, Node JS, Express JS, MySQL, PostgreSQL Database<br>I'm freelancer web developer with 4 years experience  
 
 
 ## 🌐 Socials:
